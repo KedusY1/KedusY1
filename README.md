@@ -1,10 +1,9 @@
 <h1>Hi, I'm Kedus! <br/><a href="https://github.com/KedusY1">Cybersecurity Professional</a>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Vulnerability Management Project)</b>
-  - [Praciting DS & Algos in Python](https://github.com/KedusY1/VULNLAB)
-- <b>Nessus Lab</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/KedusY1/NessusLab)
+- <b>[Vulnerability Management Project](https://github.com/KedusY1/VULNLAB)</b>
+- <b>[NessusLab](https://github.com/KedusY1/NessusLab)</b>
+  
  
 <h2> Certifications <h2>
 
